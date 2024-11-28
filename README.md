@@ -1,5 +1,3 @@
-# security_json
-
 # SecurityValidator.js
 
 This file contains a class called `SecurityValidator` that provides various security tools to validate data and protect the application against injection attacks and malicious code. These tools include the following:
